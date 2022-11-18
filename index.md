@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html>
-<body>
 <!-- MathJax -->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML"/>
-</body>
-</html>
+
 
 # Hello World in MD
 
