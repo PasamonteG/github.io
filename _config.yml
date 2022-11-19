@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Test page for github.io
 description: Test page to see if I can add Latex to markdown pages anf use github.io to serve them
+markdown: GFM
