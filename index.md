@@ -2,9 +2,9 @@
 <!-- MathJax 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML"/> -->
 
-I am hosted in `Github` pages with $$ LaTeX $$. Or $$ x^{2}_{a} $$
+I am hosted in `Github` pages with $$ LaTeX $$.
 
-A matrix:
+Example of a matrix:
 
 $$
 \begin{Bmatrix}
@@ -12,3 +12,5 @@ a & b \\
 c & c \\
 \end{Bmatrix}
 $$
+
+[This is a link to someting interesting](https://undergroundmathematics.org/)

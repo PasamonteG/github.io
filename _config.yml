@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 title: Test page for github.io
 description: Test page to see if I can add Latex to markdown pages anf use github.io to serve them
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
